@@ -1,0 +1,12 @@
+{
+  "name": "realism",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RealGroupGG/realism.git",
+  "author": "teteumachado <trintascripter@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "fastify": "^4.28.1",
+    "typescript": "^5.5.4"
+  }
+}
